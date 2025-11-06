@@ -1,10 +1,10 @@
-School Management System
+
+<h1>School Management System</h1>
 
 A modern web application for managing school operations built with Laravel 12 backend and Vue.js 3 frontend.
 
-///////////////////////////////////////////////////////////////////////////////
 
-Features
+<h2>Features</h2>
 
 Student Management - Add, edit, and manage student records
 
@@ -16,9 +16,10 @@ Real-time Dashboard - Financial statistics and quick overview
 
 Arabic Interface - Full RTL support with Arabic language
 
-/////////////////////////////////////////////////////////////////////////////////////
 
- Tech Stack
+
+ <h2>Tech Stack</h2>
+
 
 Backend: Laravel 12, MySQL, RESTful APIs
 
@@ -26,9 +27,9 @@ Frontend: Vue.js 3, Vue Router, Axios, CSS3
 
 Icons: Font Awesome
 
-////////////////////////////////////////////////////////////////////////////////////
 
- Quick Start
+
+ <h2>Quick Start</h2>
 
 Backend Setup
 bash
@@ -44,9 +45,9 @@ bash
 npm install
 npm run dev
 
-/////////////////////////////////////////////////////////////////////////////////////
 
- Modules
+
+ <h1>Modules</h1>
 
 Students - Complete CRUD with search and filtering
 
@@ -58,9 +59,9 @@ Salaries - Teacher payroll processing
 
 Expenses - School expense categorization and reporting
 
-////////////////////////////////////////////////////////////////////////////////////
 
- Key Benefits
+
+ <h2>Key Benefits</h2>
 
 ✅ Easy to Use - Clean, intuitive interface
 
