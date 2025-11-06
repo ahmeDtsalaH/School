@@ -33,16 +33,18 @@ Icons: Font Awesome
 
 Backend Setup
 bash
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate --seed
+
+composer install,
+cp .env.example .env,
+php artisan key:generate,
+php artisan migrate --seed,
 php artisan serve
 
 Frontend Setup
 
 bash
-npm install
+
+npm install,
 npm run dev
 
 
