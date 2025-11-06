@@ -1,4 +1,5 @@
 School Management System
+
 A modern web application for managing school operations built with Laravel 12 backend and Vue.js 3 frontend.
 
 🌟 Features
