@@ -4,7 +4,7 @@ A modern web application for managing school operations built with Laravel 12 ba
 
 ///////////////////////////////////////////////////////////////////////////////
 
-🌟 Features
+Features
 
 Student Management - Add, edit, and manage student records
 
@@ -18,14 +18,18 @@ Arabic Interface - Full RTL support with Arabic language
 
 /////////////////////////////////////////////////////////////////////////////////////
 
-🛠 Tech Stack
+ Tech Stack
+
 Backend: Laravel 12, MySQL, RESTful APIs
+
 Frontend: Vue.js 3, Vue Router, Axios, CSS3
+
 Icons: Font Awesome
 
 ////////////////////////////////////////////////////////////////////////////////////
 
-🚀 Quick Start
+ Quick Start
+
 Backend Setup
 bash
 composer install
@@ -33,14 +37,17 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
+
 Frontend Setup
+
 bash
 npm install
 npm run dev
 
 /////////////////////////////////////////////////////////////////////////////////////
 
-📊 Modules
+ Modules
+
 Students - Complete CRUD with search and filtering
 
 Teachers - Management with specialization tracking
@@ -53,7 +60,8 @@ Expenses - School expense categorization and reporting
 
 ////////////////////////////////////////////////////////////////////////////////////
 
-💡 Key Benefits
+ Key Benefits
+
 ✅ Easy to Use - Clean, intuitive interface
 
 ✅ Responsive - Works on all devices
